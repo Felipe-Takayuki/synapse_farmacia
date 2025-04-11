@@ -41,7 +41,7 @@ nav > a {
     border-radius: 20px;
     width: 80%;
     height: 300px;
-    font-size: 40px;
+    font-size: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,7 +96,7 @@ nav > a {
 }
 .card{
     margin: 10px;
-    height: 100px;
+    height: 30%;
     padding: 10px;
     background-color: rgb(145, 212, 224);
     border-radius: 10px;
@@ -215,7 +215,6 @@ footer {
         font-size: 15px;
     }
     .container {
-        height: 60%;
         font-size: 24px;
         padding: 20px;
     }
@@ -264,8 +263,9 @@ footer {
     }
 
     .container {
-        font-size: 18px;
-        padding: 20px;
+        width: 80%;
+        font-size: 20px;
+        padding: 14px;
     }
 
     .card-produto {
@@ -290,7 +290,7 @@ footer {
         grid-template-columns: repeat(2, 1fr); /* 3 por linha em tablets */
  }
     .categoria {
-        width: 100%;
+        width: 50%;
         max-width: 120px;
         height: 120px;
         border-radius: 20px;
